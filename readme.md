@@ -17,7 +17,7 @@
 
 > 使用场景：当筛选数据过多时，可通过懒加载的方式，加入搜索框、分页的方式来进行使用
 
-![](D:\desktop\dh-select\img1.png)
+![](./img1.png)
 
 ````vue
 <template>
@@ -110,7 +110,7 @@ export default {
 
 > 当只想要进行简单的筛选，并且携带容易观看的icon
 
-![](D:\desktop\dh-select\img2.png)
+![](./img2.png)
 
 ````vue
 <template>
